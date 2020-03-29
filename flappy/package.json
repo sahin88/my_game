@@ -1,0 +1,15 @@
+{
+  "name": "flappy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "flappy.js",
+  "scripts": {
+    "deploy": "gh-pages -d flappy"
+  },
+  "author": "",
+  "license": "ISC",
+   "homapege":"https://sahin88.github.io/flappy",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
