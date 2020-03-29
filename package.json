@@ -1,0 +1,15 @@
+{
+  "name": "my_game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d  /home/alex/My_Game/flappy"
+  },
+  "author": "",
+  "homepage":"htpps://sahin88.github.io/my_game",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
